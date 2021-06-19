@@ -1,5 +1,5 @@
 const PG = {
-	connection: 'postgres://swikpnpo:xnNsTRcSZE6xE4LtEw1w8K4jqWIRhp1r@queenie.db.elephantsql.com:5432/swikpnpo',
+	connection: 'postgres://mobqsqgh:svEkadkacMhc_0l_9HNQn7cRFFjyliWS@batyr.db.elephantsql.com/mobqsqgh',
 }
 
 module.exports = {
