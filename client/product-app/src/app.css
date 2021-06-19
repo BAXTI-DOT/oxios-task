@@ -6,7 +6,6 @@ body {
 }
 
 .container {
-    border: 2px solid red;
     text-align: center;
     display: flex;
     flex-direction: column;
