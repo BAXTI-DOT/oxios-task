@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    padding-right: 0 !important
+}
+
+.container {
+    border: 2px solid red;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.header h1 {
+    margin-right: 10px;
+}
